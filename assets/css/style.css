@@ -1,0 +1,26 @@
+body{
+  padding-bottom: 70px;
+  background-image: url("../images/dust_scratches.png");
+}
+
+.mainBody{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #ffffff;
+  min-height: 80%;
+}
+
+.caption{
+  margin-bottom: 1px gray solid;
+}
+
+.footer{
+  text-align: center;
+  color: gainsboro;
+  font-size: 12px;
+}
+
+/* *{
+  border: 1px black solid;
+} */
+
+
